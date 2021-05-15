@@ -1,0 +1,8 @@
+v1.2 [Current]
+- Fixed null reference bug when the player touchs the screen after a level has been completed.
+
+v1.1
+- Fixed extra words popup not appearing
+
+v1.0
+- Initial release
